@@ -1,0 +1,1 @@
+ALTER TABLE `lime_users` ADD `company_uid` INT NOT NULL DEFAULT '0' AFTER `parent_id`;

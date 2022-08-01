@@ -1,0 +1,1 @@
+ALTER TABLE `lime_companies` ADD `selected_groups` TEXT NOT NULL AFTER `name`;

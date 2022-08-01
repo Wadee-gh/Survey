@@ -1,0 +1,5 @@
+-- lime_companies
+-- Date : 27-09-2018
+
+ALTER TABLE `lime_companies` ADD `signup_hash` VARCHAR(50) NULL DEFAULT NULL AFTER `modified`;
+

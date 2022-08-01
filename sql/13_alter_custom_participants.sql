@@ -1,0 +1,1 @@
+ALTER TABLE `lime_custom_participants` ADD `participant_id` VARCHAR(50) NULL DEFAULT NULL AFTER `survey_id`;
